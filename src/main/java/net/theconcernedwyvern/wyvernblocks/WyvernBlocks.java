@@ -2,6 +2,8 @@ package net.theconcernedwyvern.wyvernblocks;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.theconcernedwyvern.wyvernblocks.block.ModBlocks;
+import net.theconcernedwyvern.wyvernblocks.item.ModItemGroups;
 import net.theconcernedwyvern.wyvernblocks.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,6 +16,8 @@ public class WyvernBlocks implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.registerModItems();
+		ModItemGroups.registerItemGroups();
+		ModBlocks.registerModBlocks();
 
 	}
 }

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures":
+  {
+    "all": "wyvern-blocks:block/leaded_glass"
+  }
+}

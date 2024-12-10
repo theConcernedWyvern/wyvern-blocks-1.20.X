@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "":
+    {
+      "model": "wyvern-blocks:block/leaded_glass"
+    }
+  }
+}

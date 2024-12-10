@@ -1,3 +1,5 @@
 {
-  "item.wyvern-blocks.ruby": "Ruby"
+  "item.wyvern-blocks.ruby": "Ruby",
+  "itemgroup.ruby": "Wyvern Blocks",
+  "block.wyvern-blocks.leaded_glass": "Leaded Glass"
 }
